@@ -56,8 +56,10 @@
   }
 
   .nav-list-item a:hover{
+  
     background-color: navy;
     transition: .5s;
+    
   }
 
   .shopbtn{
