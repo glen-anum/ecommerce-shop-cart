@@ -35,7 +35,7 @@
 
   label.logo a:hover{
     cursor: pointer;
-    color: #FAD24A;
+    color: navy;
   }
 
   nav .nav-list{
@@ -56,7 +56,7 @@
   }
 
   .nav-list-item a:hover{
-    background-color: #FAD24A;
+    background-color: navy;
     transition: .5s;
   }
 
@@ -85,7 +85,7 @@
   }
 
   .checkout-btn:hover{
-    background:linear-gradient(to right, #f8d358, #fce28e);
+    background:linear-gradient(to right, navy, #585bf8);
   }
 
   #shop-cart{
@@ -93,7 +93,7 @@
     font-size: 15px;
     right: 10px;
     background-color: whitesmoke;
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
     border-radius: 50%;
     padding: 5px;
   }
@@ -137,7 +137,7 @@
     }
     .nav-list-item a:hover{
       background: none;
-      color: #FAD24A;
+      color: navy;
     }
     #check:checked ~ .nav-list{
       left: 0;

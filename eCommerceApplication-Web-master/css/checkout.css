@@ -45,7 +45,7 @@ input[type="text"]{
 
 input[type="text"]:focus, input[type="text"]:hover{
     outline: none;
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
 }
 
 .long-text{
@@ -57,7 +57,7 @@ input[type="text"]:focus, input[type="text"]:hover{
 }
 
 h2{
- color: #FAD24A;
+ color: navy;
  font-family: poppins;
  margin-top: 20px;
  margin-bottom: 20px;
@@ -96,7 +96,7 @@ h4{
 input[type="radio"]:checked +span:after,
 input[type="radio"].with-gap:checked +span:after
 {
-    background-color: #FAD24A;
+    background-color: navy;
 }
 
 .options-caution{
@@ -109,7 +109,7 @@ input[type="radio"].with-gap:checked +span:after
 /* Payment Button */
 input[type="submit"]{
     padding: 20px 40px;
-    background-color: #FAD24A;
+    background-color: navy;
     color: white;
     font-size: 20px;
     margin-left: 9rem;
@@ -119,5 +119,5 @@ input[type="submit"]{
 input[type="submit"]:hover{
     cursor: pointer;
     border-radius: 5px;
-    background:linear-gradient(to right, #f8d358, #fce28e);
+    background:linear-gradient(to right, navy, #585bf8);
 }

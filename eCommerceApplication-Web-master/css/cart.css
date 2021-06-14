@@ -7,7 +7,7 @@
 }
 
 .cart-empty h2{
-  color: #FAD24A;
+  color: navy;
   font-family: poppins;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -118,7 +118,7 @@
   }
   
   .promo-code-field {
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
     padding: 0.5rem;
     text-transform: uppercase;
     transition: all 0.2s linear;
@@ -129,7 +129,7 @@
   
   .promo-code-field:hover,
   .promo-code-field:focus {
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
   }
 
   .basket-module label{
@@ -142,12 +142,12 @@
     margin-left: 0.625rem;
     padding: 0.6875rem 1.25rem 0.625rem;
     font-size: 15px;
-    background-color: #FAD24A; 
+    background-color: navy; 
   }
 
   .promo-code-cta:hover{
     cursor: pointer;
-    background:linear-gradient(to right, #f8d358, #fce28e);
+    background:linear-gradient(to right, navy, #585bf8);
 
   }
   
@@ -238,7 +238,7 @@
   }
   
   .product-frame {
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
   }
   
   .product-details {
@@ -248,7 +248,7 @@
   
   .quantity-field {
     background-color: white;
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
     text-align: center;
     border-radius: 4px;
     font-size: 1rem;
@@ -340,12 +340,12 @@
     padding: 0.625rem 0;
     width: 100%;
     color: white;
-    background-color: #FAD24A;
+    background-color: navy;
   }
 
   .checkout-cta:hover{
     cursor: pointer;
-    background:linear-gradient(to right, #f8d358, #fce28e);
+    background:linear-gradient(to right, navy, #585bf8);
   }
   
   .summary-delivery-selection {
@@ -360,22 +360,22 @@
 
   .item-size{
     font-size: 20px;
-    color: #FAD24A;
+    color: navy;
     padding: 3px;
     background-color: white;
-    border: 1px solid #FAD24A;
+    border: 1px solid navy;
     border-radius: 50%;
 }
 
 .item-size:hover{
     cursor: pointer;
     color: white;
-    background-color: #FAD24A;
+    background-color: navy;
 }
 
 .item-size:focus{
     color: white;
-    background-color: #FAD24A;
+    background-color: navy;
 }
   
   @media screen and (max-width: 640px) {
